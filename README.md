@@ -1,5 +1,7 @@
 # TSP Genetic Algorithm #
 
+[![license](https://img.shields.io/github/license/suddi/TSP.svg?maxAge=2592000)](https://github.com/suddi/TSP/blob/master/LICENSE)
+
 This is a solution to the Travelling Salesman Problem using a genetic algorithm implementation.
 This TSP program requires C++11.
 
