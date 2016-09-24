@@ -1,5 +1,6 @@
 # TSP Genetic Algorithm #
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7f6b74abf0924e6099ceec57eb8151c3)](https://www.codacy.com/app/suddir/TSP?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=suddi/TSP&amp;utm_campaign=Badge_Grade)
 [![license](https://img.shields.io/github/license/suddi/TSP.svg?maxAge=2592000)](https://github.com/suddi/TSP/blob/master/LICENSE)
 
 This is a solution to the Travelling Salesman Problem using a genetic algorithm implementation.
