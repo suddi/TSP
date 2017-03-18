@@ -36,4 +36,4 @@ If the settings are changed, we will need to compile the application again:
 
 To run the solution:
 
-    $ ./tsp solveMap
+    $ ./tsp solveMap 
